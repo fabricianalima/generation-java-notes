@@ -22,5 +22,4 @@ public class VariaveisConstantes {
 		System.out.println(graus);
 
 	}
-
 }

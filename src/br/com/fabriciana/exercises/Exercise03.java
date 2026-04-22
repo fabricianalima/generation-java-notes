@@ -28,7 +28,8 @@ public class Exercise03 {
 		float calculoProduto = (numero1 * numero2) - (numero3 * numero4);
 
 		System.out.printf("A média é: %.1f", calculoProduto);
-
+		
+		leia.close();
 	}
 
 }

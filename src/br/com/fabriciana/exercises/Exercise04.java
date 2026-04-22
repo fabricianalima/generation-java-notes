@@ -29,6 +29,7 @@ public class Exercise04 {
 
 		System.out.printf("O salário líquido é: %.1f", salarioLiquido);
 
+		leia.close();
 	}
 
 }

@@ -27,7 +27,8 @@ public class Exercise02 {
 			float calcularMedia = (nota1 + nota2 + nota3 + nota4) / 4;
 
 			System.out.printf("A média é: %.1f", calcularMedia);
-
+			
+			leia.close();
 		}
 	}
 

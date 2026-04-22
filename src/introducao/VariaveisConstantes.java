@@ -20,6 +20,6 @@ public class VariaveisConstantes {
 		System.out.println(nome);
 		System.out.println(QUANTIDADE);
 		System.out.println(graus);
-
+		
 	}
 }

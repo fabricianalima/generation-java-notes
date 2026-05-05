@@ -3,7 +3,7 @@ package pooHeranca;
 public class TestaClasses {
 
 	public static void main(String[] args) {
-
+	
 		Estudante e = new Estudante("Maria", 20, "maria@email.com", "2026A", "Computação");
 		Instrutor i = new Instrutor("Carlos", 35, "carlos@email.com", "Java");
 
@@ -19,6 +19,8 @@ public class TestaClasses {
 		System.out.println("Idade: " + i.getIdade());
 		System.out.println("Email: " + i.getEmail());
 		System.out.println("Especialidade: " + i.getEspecialidade());
+		
+	
 	}
 
 }
